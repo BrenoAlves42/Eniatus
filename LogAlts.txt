@@ -1,0 +1,33 @@
+Em: 2020-09-18O Usuario: admin Alterou em: Staff o(s) atributos: Senha
+Em: 2020-09-18 O Usuario: admin Alterou em: Staff o(s) atributos: Senha do usuario: Breno
+Em: 2020-09-18 O Usuario: admin Alterou em: Staff o(s) atributos: Senha
+Em: 2020-09-18 O Usuario: admin Alterou em: Staff o(s) atributos: Senha
+Em: 2020-09-18 O Usuario: admin Alterou em: Staff o(s) atributos: Senha
+Em: 2020-09-18 O Usuario: admin Alterou em: Staff o(s) atributos: Senha do usuario: Breno
+Em: 2020-09-18 O Usuario: admin Alterou em: Staff o(s) atributos: Senha
+Em: 2020-09-18 O Usuario: admin Alterou em: Staff o(s) atributos: Senha do usuario: Breno
+Em: 2020-09-18 O Usuario: admin Alterou em: Staff o(s) atributos: Senha
+Em: 2020-09-19 O Usuario: admin Alterou em: Staff o(s) atributos: Senha
+Em: 2020-09-19 O Usuario: admin Alterou em: Staff o(s) atributos: Senha do usuario: admin
+Em: 2020-09-19 O Usuario: admin Alterou em: Staff o(s) atributos: Senha
+Em: 2020-09-19 O Usuario: admin Alterou em: Staff o(s) atributos: Senha
+Em: 2020-09-19 O Usuario: admin Alterou em: Staff o(s) atributos: Senha
+Em: 2020-09-19 O Usuario: admin Alterou em: Staff o(s) atributos: Senha
+Em: 2020-09-19 O Usuario: admin Alterou em: Staff o(s) atributos: Senha
+Em: 2020-09-19 O Usuario: admin Alterou em: Staff o(s) atributos: Senha
+Em: 2020-09-19 O Usuario: admin Alterou em: Staff o(s) atributos: Senha do usuario: admin
+Em: 2020-09-19 O Usuario: admin Alterou em: Staff o(s) atributos: Senha
+Em: 2020-10-10 O Usuario: danex Alterou em: Staff o(s) atributos: Senha
+Em: 2020-10-17 O Usuario: admin Alterou em: Proventos o(s) atributos: Outros-Descrição
+Em: 2020-10-17 O Usuario: admin Alterou em: Proventos o(s) atributos: Horas extras
+Em: 2020-10-17 O Usuario: admin Alterou em: Proventos o(s) atributos: Horas extras
+Em: 2020-10-17 O Usuario: admin Alterou em: Descontos o(s) atributos: Outros-Descrição
+Em: 2020-10-17 O Usuario: admin Alterou em: Descontos o(s) atributos: Contrato Sindical
+Em: 2020-10-17 O Usuario: admin Alterou em: Descontos o(s) atributos: Faltas
+Em: 2020-10-17 O Usuario: admin Alterou em: Staff o(s) atributos da tabela do usuário admin
+Em: 2020-10-17 O Usuario: admin Alterou em: Staff o(s) atributos da tabela do usuário danex
+Em: 2020-10-17 O Usuario: admin Alterou em: Staff o(s) atributos da tabela do usuário admin
+Em: 2020-10-18 O Usuario: admin Alterou em: Staff o(s) atributos da tabela do usuário admin
+Em: 2020-10-18 O Usuario: danex Alterou em: Staff o(s) atributos da tabela do usuário danex
+Em: 2020-10-19 O Usuario: admin Alterou em: Proventos o(s) atributos Horas extras
+Em: 2020-10-19 O Usuario: admin Alterou em: Proventos o(s) atributos Horas extras
